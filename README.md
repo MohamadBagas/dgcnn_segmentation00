@@ -1,6 +1,6 @@
 # **DGCNN for Point Cloud Semantic Segmentation**
 
-This project provides a complete, flexible pipeline to train a Deep Graph Convolutional Network (DGCNN) for semantic segmentation of LiDAR point clouds. This final version uses a stable, deep architecture and allows you to easily experiment with different feature sets and class configurations.
+This project provides a complete, flexible pipeline to train a Dynamic Graph Convolutional Network (DGCNN) for semantic segmentation of LiDAR point clouds. This final version uses a stable, deep architecture and allows you to easily experiment with different feature sets and class configurations.
 
 ### **Project Structure**
 
